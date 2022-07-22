@@ -1,5 +1,5 @@
 # Iphone
-What it is
+# What it is
 This is an iPhone built using JavaScript drawings.
 
 # How I built it
